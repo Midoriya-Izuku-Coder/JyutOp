@@ -1,4 +1,4 @@
-# CUHK-AI-For-Future
+# JyutOp -- An aid for your own Cantonese Opera
 ## How to use:
 1) Download the [App folder](App)
 2) Run `new_ui.py`
